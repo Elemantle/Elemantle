@@ -32,9 +32,11 @@ I am eager to grow into Cyber Security and focus on Red Team activities as I am 
 <div>
 <div>CompTia Security+ (Expected Spring 2026)</div>
 <div><text>JLPT N5 (Expected December 2025)</text></div>
-<div><text>Bachelors in Information Security (Expected September 2026)</text></div>
+<div><text>Bachelors in Information Systems (Expected September 2026)</text></div>
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Cisco physical and digital phone interface configuration
+- Proxmox configuration between multiple networks
+- Cisco physical switch and router configuration with Suricata
+- Cisco Packet Tracer network configuration
