@@ -1,4 +1,4 @@
-# Hello, I'm Elemantle
+# Hello, I'm Alijah
 <a href="https://www.linkedin.com/in/alijah-boualapha-163660294/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am currently an undergrad with my main focus being in cyber security. I am studying to get my CompTia Security+ Certificate as well as my JLPT N3 by the time I graduate. (August 2026) 
